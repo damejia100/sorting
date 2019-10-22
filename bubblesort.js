@@ -10,7 +10,6 @@ function bubbleSort(array, customSort=null) {
   }
 
   return array;
-  /* your code here */
 
 }
 
